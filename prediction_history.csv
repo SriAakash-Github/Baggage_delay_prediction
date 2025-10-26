@@ -1,0 +1,3 @@
+origin_airport,destination_airport,departure_time,actual_departure_time,arrival_time,check_in_time,weather_condition,number_of_bags,bag_weight_kg,day_of_week,is_international,extra_baggage,travel_duration_min,passenger_name,baggage_tag_number,flight_number,special_handling,prediction,probability,predicted_delay_minutes,timestamp
+DEL,DEL,12:00,12:00,15:00,10:00,Clear,1,10.0,0,1,Yes,60,,,,,0,0.0680936602822514,4.13124418258667,2025-07-22 21:05:00
+FRA,JFK,12:00,12:00,15:00,10:00,Clear,4,10.0,0,1,Yes,60,,,,,0,0.29486886936046625,28.65701675415039,2025-10-21 20:35:40
